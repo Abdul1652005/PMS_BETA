@@ -1,0 +1,6 @@
+ID      Name           Age     Crime         Years     Cell    Officer
+1       Josh           34      Murder         13        1001    201            
+2       Dan            45      Drugs          15        1001    201            
+3       Joshua         23      Theft          5         1002    202            
+4       Sammy          34      Neuroutics     14        1002    202            
+5       Darren         50      Assault        10        1003    203            
